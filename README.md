@@ -2,16 +2,16 @@
 
 <h3 align="center">A Java developer from China🇨🇳</h3>
 
-My Name is guoxing gao and i am a Java developer.you can find me on **1977713379@qq.com** or **nanyiniu76@gmail.com** 
+My Name is guoxing gao and I am a Java developer.you can find me on **1977713379@qq.com** or **nanyiniu76@gmail.com** 
 
 # Blogs
 
 I like write a blog to record the results of my studies.you can find my article at [nanyiniu.github.io](https://nanyiniu.github.io/)
 
-# My Github 
+# Github Stat 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyiniu&layout=compact" alt="nanyiniu" /></p>
-
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanyiniu&show_icons=true" alt="nanyiniu" /></p>
 
 # Language & Tools
