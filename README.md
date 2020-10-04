@@ -10,8 +10,10 @@ I like write a blog to record the results of my studies.you can find my article 
 
 # Github Stat 
 
+##  top langs
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyiniu&layout=compact" alt="nanyiniu" /></p>
-</p>
+
+## more info
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanyiniu&show_icons=true" alt="nanyiniu" /></p>
 
 # Language & Tools
