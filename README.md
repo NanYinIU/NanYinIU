@@ -2,7 +2,12 @@
 
 <h3 align="center">A Java developer from China🇨🇳</h3>
 
-My Name is guoxing gao and I am a Java developer.you can find me on **1977713379@qq.com** or **nanyiniu76@gmail.com** 
+My Name is guoxing gao and I am a Java developer.you can find me on **1977713379@qq.com** or **nanyiniu76@gmail.com** .
+
+> "If you wish to succeed, you should use persistence as your good friend,　experience as your reference, prudence as your brother and hope as your sentry."
+>  —— Thomas Edison
+
+> 如果你希望成功，当以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。
 
 # Blogs
 
@@ -11,10 +16,11 @@ I like write a blog to record the results of my studies.you can find my article 
 # Github Stat 
 
 ##  top langs
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyiniu&layout=compact" alt="nanyiniu" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanyiniu&layout=compact)
 
 ## more info
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nanyiniu&show_icons=true" alt="nanyiniu" /></p>
+![](https://github-readme-stats.vercel.app/api?username=nanyiniu&show_icons=true)
 
 # Language & Tools
 
