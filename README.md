@@ -32,8 +32,11 @@
 ### 📊 stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanyiniu&layout=compact&hide_border=true&bg_color=ffffff00&title_color=333&text_color=666" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nanyiniu&show_icons=true&hide_border=true&bg_color=ffffff00&title_color=333&text_color=666&icon_color=666" />
+  <img src="https://streak-stats.demolab.com/?user=NanYinIU&hide_border=true&background=ffffff00&stroke=999&ring=666&fire=666&currStreakLabel=666&sideLabels=666&dates=999" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NanYinIU&theme=flat&no-frame=true&margin-w=6&column=4&rank=-?" />
 </p>
 
 ---
