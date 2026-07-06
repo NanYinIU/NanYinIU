@@ -32,11 +32,14 @@
 ### 📊 stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NanYinIU&hide_border=true&background=ffffff00&stroke=999&ring=666&fire=666&currStreakLabel=666&sideLabels=666&dates=999" />
+  <img src="https://komarev.com/ghpvc/?username=NanYinIU&style=flat&color=brightgreen&label=visitors" />
+  <img src="https://img.shields.io/badge/repos-47-333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/stars-293-333?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/followers-12-333?style=flat&logo=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NanYinIU&theme=flat&no-frame=true&margin-w=6&column=4&rank=-?" />
+  <sub>数据通过 <a href="https://github.com/NanYinIU/NanYinIU/actions">GitHub Actions</a> 每日自动更新</sub>
 </p>
 
 ---
